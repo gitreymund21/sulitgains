@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import {
   Wallet,
   Target,
-  Bell,
+  Dumbbell,
   PieChart,
   Calendar,
   Sparkles,
@@ -28,10 +28,10 @@ const features = [
       "See exactly how much you&apos;re paying per gram of protein. Maximize your gains per peso.",
   },
   {
-    icon: Bell,
-    title: "Promo Alerts",
+    icon: Dumbbell,
+    title: "Workout Planner",
     description:
-      "Get notified when your favorite restaurants have deals that fit your macros and budget.",
+      "Simple, effective routines designed for student schedules and campus gym availability.",
   },
   {
     icon: Calendar,

@@ -43,7 +43,7 @@ export function HeroSection() {
 
         {/* Stats */}
         <div className="flex flex-wrap gap-8 mt-16 pt-8 border-t border-border">
-          <div className="flex items-center gap-3">
+          {/* <div className="flex items-center gap-3">
             <div className="flex items-center justify-center w-12 h-12 rounded-full bg-accent/20">
               <TrendingUp className="h-5 w-5 text-accent" />
             </div>
@@ -71,7 +71,7 @@ export function HeroSection() {
                 Avg. Monthly Savings
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
